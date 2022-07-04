@@ -25,9 +25,9 @@ global.ownernomer = '+94741068215'
 global.ownername = '🔰MALIYA..🔰'
 global.botname = 'GOJO_SATORY.👻'
 global.footer = '🔰MALIYA..🔰.'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://youtube.com/channel/UCtZml_1-VdTjyvQl6zcwluA'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://youtube.com/channel/UCtZml_1-VdTjyvQl6zcwluA'
 global.myweb = 'https://youtube.com/channel/UCtZml_1-VdTjyvQl6zcwluA'
 global.packname = '🔰MALIYA..🔰'
 global.author = '🔰MALIYA..🔰'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: '👉👈 please wait..',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
