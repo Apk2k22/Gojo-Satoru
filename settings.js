@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94741068215']
-global.premium = ['+94741068215']
-global.ownernomer = '+94741068215'
+global.owner = ['https://wa.me/qr/H3U3IXMOUJUTD1']
+global.premium = ['https://wa.me/qr/H3U3IXMOUJUTD1']
+global.ownernomer = 'https://wa.me/qr/H3U3IXMOUJUTD1'
 global.ownername = '🔰MALIYA..🔰'
 global.botname = 'GOJO_SATORY.👻'
 global.footer = '🔰MALIYA..🔰.'
