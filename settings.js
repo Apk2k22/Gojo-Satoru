@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['https://wa.me/qr/H3U3IXMOUJUTD1']
-global.premium = ['https://wa.me/qr/H3U3IXMOUJUTD1']
-global.ownernomer = 'https://wa.me/qr/H3U3IXMOUJUTD1'
+global.owner = ['+94711562695']
+global.premium = ['+94711562695']
+global.ownernomer = '+94711562695'
 global.ownername = '🔰MALIYA..🔰'
 global.botname = 'GOJO_SATORY.👻'
-global.footer = '🔰MALIYA..🔰.'
+global.footer = '🔰MALIYA..🔰'
 global.ig = 'https://youtube.com/channel/UCtZml_1-VdTjyvQl6zcwluA'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://youtube.com/channel/UCtZml_1-VdTjyvQl6zcwluA'
